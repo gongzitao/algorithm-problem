@@ -27,5 +27,4 @@ public class Solution {
         preorder(root.left,res);
         preorder(right,res);
     }
-    
 }
